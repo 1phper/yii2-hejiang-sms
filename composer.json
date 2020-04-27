@@ -1,5 +1,5 @@
 {
-    "name": "wi1dcard/yii2-hejiang-sms",
+    "name": "miniphper/yii2-hejiang-sms",
     "description": "Third-party SMS gateway service integrations for Yii2.",
     "type": "library",
     "require": {
@@ -10,8 +10,8 @@
     },
     "authors": [
         {
-            "name": "wi1dcard",
-            "email": "yokka47@qq.com"
+            "name": "miniphper",
+            "email": "1062241667@qq.com"
         }
     ],
     "autoload":{
